@@ -35,5 +35,5 @@ TODO
 License
 -------
 
-See [LICENSE](/LICENSE)
+See [LICENSE](LICENSE)
 
